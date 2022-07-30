@@ -1,3 +1,18 @@
+<h3 align="center">
+  Hi! 
+  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">, I'm Iqbal Prasetya
+</h3>
+
+
+---
+<div align="center">
+  
+# About Me
+</div>
+
+
+
+
 <h1 align="center">Hi 👋, I'm Iqbal Prasetya</h1>
 <h3 align="center">A junior frontend developer from Indonesia</h3>
 
