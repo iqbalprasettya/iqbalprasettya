@@ -18,7 +18,7 @@ Hello everyone, My name is Iqbal Prasetya but you can call me Iqbal. I am a fron
 
   ## 💰 You can help me by Donating
   [![BuyMeACoffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/iqbalprasettya)
-  [![saweria](https://github.com/iqbalprasettya/iqbalprasettya/assets/97178562/fc885aac-6cdc-4567-bdcf-a6350c48f18b)](https://saweria.co/iqbalprasettya)
+  <a href="https://saweria.co/iqbalprasettya"><img src="https://github.com/iqbalprasettya/iqbalprasettya/assets/97178562/fc885aac-6cdc-4567-bdcf-a6350c48f18b" alt="" width="125"></a>
 
 
   
